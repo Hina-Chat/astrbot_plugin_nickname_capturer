@@ -1,0 +1,5 @@
+name: Nickname Capturer
+desc: 在 QQ 官方机器人平台从用户回复中捕获其真实昵称，并修正事件对象。
+version: 1.0.0
+author: Magstic, Cascade
+repo: https://github.com/Hina-Chat/
